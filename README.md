@@ -2052,19 +2052,9 @@ However, this README file should already provide a comprehensive overview of the
 
 <h2 id="author">👨‍💻 Author</h2>
 
-Here are some information about me - the project's humble creator:
 
-- **[Son Nguyen](https://github.com/hoangsonww)** - An aspiring Software Developer & Data Scientist
-- Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/hoangsonw/)**.
-- If you have any questions or feedback, please feel free to reach out to me at **[hoangson091104@gmail.com](mailto:hoangson091104@gmail.com)**.
-- Also, check out my **[portfolio](https://sonnguyenhoang.com/)** for more projects and articles.
-- If you find this project helpful, or if you have learned something from the source code, consider giving it a star ⭐️. I would greatly appreciate it! 🚀
-
----
 
 **Happy Coding and Analyzing! 🚀**
-
-**Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2024-2025.**
 Licensed under the **[Creative Commons Attribution-NonCommercial License](LICENSE.md)**.
 
 ---
